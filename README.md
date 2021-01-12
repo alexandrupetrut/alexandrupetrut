@@ -1,6 +1,6 @@
-[![Header](https://github.com/alexandrupetrut/alexandrupetrut/blob/main/1610444347020.jpg "Header")](https://www.linkedin.com/in/petrut-alex/)
+[![Header](<img src="https://github.com/alexandrupetrut/alexandrupetrut/blob/main/1610444347020.jpg" width="30px" "Header")](https://www.linkedin.com/in/petrut-alex/)
 
-# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Welcome to my GitHub! <img src="https://raw.githubusercontent.com/alexandrupetrut/alexandrupetrut/wave.gif" width="30px">
 
 I am Alex, a software developer from Bucharest, currently working at [CN Group](https://www.cngroup.dk/). 
 You can find me on on [![LinkedIn][3.2]][3].
