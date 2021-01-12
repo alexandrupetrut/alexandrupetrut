@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/readme_header.png "Header")](https://www.linkedin.com/in/petrut-alex/)
+[![Header](https://github.com/alexandrupetrut/alexandrupetrut/blob/main/1610444347020.jpg "Header")](https://www.linkedin.com/in/petrut-alex/)
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
