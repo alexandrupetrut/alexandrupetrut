@@ -1,9 +1,9 @@
-<div align='center'><h1>Welcome to my GitHub! <img src="https://raw.githubusercontent.com/alexandrupetrut/alexandrupetrut/main/wave.gif?token=AO5KBQYRUOVADHND2W6DTPS77WA5Q" alt="" width="30px"/> </h1></div>
+<div align='center'><h1>Welcome to my new GitHub profile!</h1></div>
 <div align="center">
 <a href="https://www.linkedin.com/in/petrut-alex" target="_blank" rel="nofollow"><img align="right" alt="Alex's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a><a href="https://www.facebook.com/palex.petrut/" target="_blank" rel="nofollow"><img align="right" alt="Alex's Insta" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" /></a>
 </div>
 
-<img src='https://raw.githubusercontent.com/alexandrupetrut/alexandrupetrut/main/1610444347020.jpg?token=AO5KBQ2SV3YR76SFRXPMRZC77WBB6' width="180px" align='left'>
+<img src='https://github.com/alexandrupetrut/alexandrupetrut/blob/main/1610444347020.jpg' width="180px" align='left'>
 
 ### Allow me to introduce myself 👋  ![visitors](https://visitor-badge.glitch.me/badge?page_id=https://github.com/alexandrupetrut)
 - :school: I'm [Alex](https://alexandrupetrut.github.io/), a software developer from Bucharest, currently working at [CN Group](https://www.cngroup.dk/).
