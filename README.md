@@ -3,16 +3,15 @@
 <a href="https://www.linkedin.com/in/petrut-alex" target="_blank" rel="nofollow"><img align="right" alt="Alex's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a><a href="https://www.facebook.com/palex.petrut/" target="_blank" rel="nofollow"><img align="right" alt="Alex's Insta" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" /></a>
 </div>
 
-<img src='https://github.com/alexandrupetrut/alexandrupetrut/blob/main/1610444347020.jpg' width="180px" align='left'>
+<img src='https://github.com/alexandrupetrut/alexandrupetrut/blob/main/1610444347020.jpg' width="200" align='left'>
 
-### Allow me to introduce myself 👋  ![visitors](https://visitor-badge.glitch.me/badge?page_id=https://github.com/alexandrupetrut)
-- :school: I'm [Alex](https://alexandrupetrut.github.io/), a software developer from Bucharest, currently working at [CN Group](https://www.cngroup.dk/).
-- 🔭 I’m constantly leveling up my dev skills using **Pluralsight**
-- :neutral_face: I have a **love/hate** relationship with **Game Development**
-- 😄 Currently trying to develop a simple OS by using **Assembly (x86, x64)** and **C** 
-- 😭 I am yet to use Github as intended, kind of new here! 
-- 💬 Ask me about anything, I am happy to help if I can
-- 😄  Occasionaly I do participate in **Hackathons / Game (dev) Jams**
+ ###      Allow me to introduce myself 👋  ![visitors](https://visitor-badge.glitch.me/badge?page_id=https://github.com/alexandrupetrut)
+ -  :school: I'm [Alex](https://alexandrupetrut.github.io/), a full-stack software developer from Bucharest, working at [CN Group](https://www.cngroup.dk/).
+ -  🌱 Currently learning everything 🤣 **Kudos to Pluralsight**.
+ -  :neutral_face: I have a **love/hate** relationship with **Game Development**, **Assembly (x86, x64)** and **C**.
+ -  😄  Occasionaly I do participate in **Hackathons / Game (dev) Jams**.
+ -  🥅 2021 Goals: Contribute to Open Source projects and develop a commercial online game.
+ -  ⚡ Fun fact: I enjoy playing tennis, take Freya (pic) out for walks or car trips and enjoying life leisurely.
 
 
 <!-- - ⚡ Languages: **Python3 | SQL | HTML | CSS |** -->
@@ -37,10 +36,10 @@
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/alexandrupetrut/alexandrupetrut">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandrupetrut&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandrupetrut&theme=tokyonight&langs_count=10&include_all_commits=true&layout=compact&hide=html,css" />
 </a>
 <a href="https://github.com/alexandrupetrut/alexandrupetrut">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=alexandrupetrut&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Alex: GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=alexandrupetrut&show_icons=true&theme=tokyonight&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Alex: GitHub Stats" />
 </a>
 
 
