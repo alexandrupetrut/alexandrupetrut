@@ -1,13 +1,23 @@
-[![Header](<img src="https://github.com/alexandrupetrut/alexandrupetrut/blob/main/1610444347020.jpg" width="30px" "Header")](https://www.linkedin.com/in/petrut-alex/)
+<div align='center'><h1>Welcome to my GitHub! <img src="https://raw.githubusercontent.com/alexandrupetrut/alexandrupetrut/main/wave.gif?token=AO5KBQYRUOVADHND2W6DTPS77WA5Q" alt="" width="30px"/> </h1></div>
+<div align="center">
+<a href="https://www.linkedin.com/in/petrut-alex" target="_blank" rel="nofollow"><img align="right" alt="Alex's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a><a href="https://www.facebook.com/palex.petrut/" target="_blank" rel="nofollow"><img align="right" alt="Alex's Insta" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" /></a>
+</div>
 
-# Welcome to my GitHub! <img src="https://raw.githubusercontent.com/alexandrupetrut/alexandrupetrut/wave.gif" width="30px">
+<img src='https://raw.githubusercontent.com/alexandrupetrut/alexandrupetrut/main/1610444347020.jpg?token=AO5KBQ2SV3YR76SFRXPMRZC77WBB6' width="180px" align='left'>
 
-I am Alex, a software developer from Bucharest, currently working at [CN Group](https://www.cngroup.dk/). 
-You can find me on on [![LinkedIn][3.2]][3].
+### Allow me to introduce myself 👋  ![visitors](https://visitor-badge.glitch.me/badge?page_id=https://github.com/alexandrupetrut)
+- :school: I'm [Alex](https://alexandrupetrut.github.io/), a software developer from Bucharest, currently working at [CN Group](https://www.cngroup.dk/).
+- 🔭 I’m constantly leveling up my dev skills using **Pluralsight**
+- :neutral_face: I have a **love/hate** relationship with **Game Development**
+- 😄 Currently trying to develop a simple OS by using **Assembly (x86, x64)** and **C** 
+- 😭 I am yet to use Github as intended, kind of new here! 
+- 💬 Ask me about anything, I am happy to help if I can
+- 😄  Occasionaly I do participate in **Hackathons / Game (dev) Jams**
 
-## &#x270d; Blog & Writing
 
-Apart from coding, I also maintain a blog - you can find my articles on my website at [martinheinz.dev](https://martinheinz.dev/) as well as on [Medium](https://medium.com/@martin.heinz) and [DEV.to](https://dev.to/martinheinz).
+<!-- - ⚡ Languages: **Python3 | SQL | HTML | CSS |** -->
+
+<br />
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
