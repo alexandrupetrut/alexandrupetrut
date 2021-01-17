@@ -9,9 +9,9 @@
  -  :school: I'm [Alex](https://alexandrupetrut.github.io/), a full-stack software developer from Bucharest, working at [CN Group](https://www.cngroup.dk/).
  -  🌱 Currently learning everything 🤣 **Kudos to Pluralsight**.
  -  :neutral_face: I have a **love/hate** relationship with **Game Development**, **Assembly (x86, x64)** and **C**.
- -  😄  Occasionaly I do participate in **Hackathons / Game (dev) Jams**.
- -  🥅 2021 Goals: Contribute to Open Source projects and develop a commercial online game.
- -  ⚡ Fun fact: I enjoy playing tennis, take Freya (pic) out for walks or car trips and enjoying life leisurely.
+ -  😄  Occasionaly I do participate in online **Hackathons / Game (dev) Jams**.
+ -  🥅 2021 Goals: Contribute to Open Source projects and develop a commercial project.
+ -  ⚡ Fun fact: I enjoy playing tennis and taking my pup Freya (pic) out for walks / car trips.
 
 
 <!-- - ⚡ Languages: **Python3 | SQL | HTML | CSS |** -->
