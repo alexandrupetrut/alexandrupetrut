@@ -3,7 +3,7 @@
 <a href="https://www.linkedin.com/in/petrut-alex" target="_blank" rel="nofollow"><img align="right" alt="Alex's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a><a href="https://www.facebook.com/palex.petrut/" target="_blank" rel="nofollow"><img align="right" alt="Alex's Insta" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" /></a>
 </div>
 
-<img src='https://github.com/alexandrupetrut/alexandrupetrut/blob/main/1610444347020.jpg' width="200" align='left'>
+<img src='https://github.com/alexandrupetrut/alexandrupetrut/blob/main/1610444347020.jpg' width="170" align='left'>
 
  ###      Allow me to introduce myself 👋  ![visitors](https://visitor-badge.glitch.me/badge?page_id=https://github.com/alexandrupetrut)
  -  :school: I'm [Alex](https://alexandrupetrut.github.io/), a full-stack software developer from Bucharest, working at [CN Group](https://www.cngroup.dk/).
