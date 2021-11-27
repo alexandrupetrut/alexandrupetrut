@@ -10,7 +10,7 @@
  -  🌱 Currently learning everything 🤣 **Kudos to Pluralsight**.
  -  :neutral_face: I have a **love/hate** relationship with **Game Development**, **Assembly (x86, x64)** and **C**.
  -  😄  Occasionaly I do participate in online **Hackathons / Game (dev) Jams**.
- -  🥅 2022 Goals: Enhance my GitHub profile (sorry Github for almost never using you!) and develop commercial projects.
+ -  🥅 2022 Goal: Professionally enhance my GitHub profile (sorry Github for almost never using you!).
  -  ⚡ Fun fact: I enjoy playing tennis and taking my pup Freya (pic) out for walks / car trips.
 
 
