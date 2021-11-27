@@ -6,11 +6,11 @@
 <img src='https://github.com/alexandrupetrut/alexandrupetrut/blob/main/1610444347020.jpg' width="170" align='left'>
 
  ###      Allow me to introduce myself 👋  ![visitors](https://visitor-badge.glitch.me/badge?page_id=https://github.com/alexandrupetrut)
- -  :school: I'm [Alex](https://alexandrupetrut.github.io/), a full-stack software developer from Bucharest, working at [CN Group](https://www.cngroup.dk/).
+ -  :school: I'm [Alex](https://alexandrupetrut.github.io/), a Full Stack Software Engineer from Bucharest, working at [CN Group](https://www.cngroup.dk/).
  -  🌱 Currently learning everything 🤣 **Kudos to Pluralsight**.
  -  :neutral_face: I have a **love/hate** relationship with **Game Development**, **Assembly (x86, x64)** and **C**.
  -  😄  Occasionaly I do participate in online **Hackathons / Game (dev) Jams**.
- -  🥅 2021 Goals: Contribute to Open Source projects and develop a commercial project.
+ -  🥅 2022 Goals: Contribute to Open Source projects and develop a commercial project.
  -  ⚡ Fun fact: I enjoy playing tennis and taking my pup Freya (pic) out for walks / car trips.
 
 
