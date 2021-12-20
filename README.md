@@ -6,12 +6,12 @@
 <img src='https://github.com/alexandrupetrut/alexandrupetrut/blob/main/1610444347020.jpg' width="170" align='left'>
 
  ###      Allow me to introduce myself 👋  ![visitors](https://visitor-badge.glitch.me/badge?page_id=https://github.com/alexandrupetrut)
- -  :school:   I'm [Alex](https://alexandrupetrut.github.io/), a Full Stack Software Engineer from Bucharest, working at [CN Group](https://www.cngroup.dk/).
- -  🌱   Currently learning everything 🤣 **Kudos to Pluralsight**.
- -  :neutral_face:   I have a **love/hate** relationship with **Game Development**, **Assembly (x86, x64)** and **C**.
- -  😄    Occasionaly I do participate in online **Hackathons / Game (dev) Jams**.
- -  🥅   2022 Goal: Professionally enhance my GitHub profile (sorry Github for almost never using you!).
- -  ⚡   Fun fact: I enjoy playing tennis and taking my pup Freya (pic) out for walks / car trips.
+ -  :school: &nbsp;&nbsp; I'm [Alex](https://alexandrupetrut.github.io/), a (Full Stack) **Software Engineer** from Bucharest, Romania.
+ -  🌱 &nbsp;&nbsp; Currently learning everything 🤣 **Kudos to Pluralsight**.
+ -  :neutral_face: &nbsp;&nbsp; I have a **love/hate** relationship with **Game Development**, **Assembly (x86, x64)** and **C**.
+ -  😄 &nbsp;&nbsp; Occasionaly - I do participate in online **Hackathons / Game (dev) Jams**.
+ -  🥅  &nbsp;&nbsp; **2022 Goals**: Enhance my knowledge of **Data Structures & Algorithms** and **deploy iOS/Android apps**.
+ -  ⚡ &nbsp;&nbsp; Fun fact: I enjoy playing tennis and taking my pup **Freya** (pic) out for walks / car trips.
 
 
 <!-- - ⚡ Languages: **Python3 | SQL | HTML | CSS |** -->
@@ -21,16 +21,19 @@
 ## 🔧 Technologies & Tools
 
 ### Programming Languages:
-![HTML5](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white)
 ![C](https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
+![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ### Frameworks:
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Angular](https://img.shields.io/badge/angular%20-%23DD0031.svg?&style=for-the-badge&logo=angular&logoColor=white)
-![AngularJS](https://img.shields.io/badge/angular.js%20-%23E23237.svg?&style=for-the-badge&logo=angularjs&logoColor=white)
+![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Bootstrap](https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white)
 ![JQuery](https://img.shields.io/badge/jquery%20-%230769AD.svg?&style=for-the-badge&logo=jquery&logoColor=white)
@@ -41,9 +44,14 @@
 ![Github](https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white)
 ![Bitbucket](https://img.shields.io/badge/bitbucket%20-%230047B3.svg?&style=for-the-badge&logo=bitbucket&logoColor=white)
 ### Others:
+![HTML5](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/oracle%20-%23F00000.svg?&style=for-the-badge&logo=oracle&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?&style=for-the-badge&logo=sqlite&logoColor=white)
 ![T-SQL](	https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 ![UnrealEngine](https://img.shields.io/badge/unreal%20engine%20-%23313131.svg?&style=for-the-badge&logo=unreal%20engine&logoColor=white)
 ![Unity](https://img.shields.io/badge/unity%20-%23000000.svg?&style=for-the-badge&logo=unity&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white)
