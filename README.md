@@ -6,12 +6,12 @@
 <img src='https://github.com/alexandrupetrut/alexandrupetrut/blob/main/1610444347020.jpg' width="170" align='left'>
 
  ###      Allow me to introduce myself 👋  ![visitors](https://visitor-badge.glitch.me/badge?page_id=https://github.com/alexandrupetrut)
- -  :school: I'm [Alex](https://alexandrupetrut.github.io/), a Full Stack Software Engineer from Bucharest, working at [CN Group](https://www.cngroup.dk/).
- -  🌱 Currently learning everything 🤣 **Kudos to Pluralsight**.
- -  :neutral_face: I have a **love/hate** relationship with **Game Development**, **Assembly (x86, x64)** and **C**.
- -  😄  Occasionaly I do participate in online **Hackathons / Game (dev) Jams**.
- -  🥅 2022 Goal: Professionally enhance my GitHub profile (sorry Github for almost never using you!).
- -  ⚡ Fun fact: I enjoy playing tennis and taking my pup Freya (pic) out for walks / car trips.
+ -  :school:   I'm [Alex](https://alexandrupetrut.github.io/), a Full Stack Software Engineer from Bucharest, working at [CN Group](https://www.cngroup.dk/).
+ -  🌱   Currently learning everything 🤣 **Kudos to Pluralsight**.
+ -  :neutral_face:   I have a **love/hate** relationship with **Game Development**, **Assembly (x86, x64)** and **C**.
+ -  😄    Occasionaly I do participate in online **Hackathons / Game (dev) Jams**.
+ -  🥅   2022 Goal: Professionally enhance my GitHub profile (sorry Github for almost never using you!).
+ -  ⚡   Fun fact: I enjoy playing tennis and taking my pup Freya (pic) out for walks / car trips.
 
 
 <!-- - ⚡ Languages: **Python3 | SQL | HTML | CSS |** -->
