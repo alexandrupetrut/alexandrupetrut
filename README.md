@@ -5,8 +5,8 @@
 
 <img src='https://github.com/alexandrupetrut/alexandrupetrut/blob/main/1610444347020.jpg' width="170" align='left'>
 
- ###      Allow me to introduce myself 👋  ![visitors](https://visitor-badge.glitch.me/badge?page_id=https://github.com/alexandrupetrut)
- -  :school: &nbsp;&nbsp; I'm [Alex](https://alexandrupetrut.github.io/), a (Full Stack) **Software Engineer** from Bucharest, Romania.
+ ###      Allow me to introduce myself &nbsp; 👋  &nbsp; ![visitors] &nbsp; (https://visitor-badge.glitch.me/badge?page_id=https://github.com/alexandrupetrut)
+ -  :school: &nbsp;&nbsp; I'm [Alex](https://github.com/alexandrupetrut), a (Full Stack) **Software Engineer** from Bucharest, Romania.
  -  🌱 &nbsp;&nbsp; Currently learning everything 🤣 **Kudos to Pluralsight**.
  -  :neutral_face: &nbsp;&nbsp; I have a **love/hate** relationship with **Game Development**, **Assembly (x86, x64)** and **C**.
  -  😄 &nbsp;&nbsp; Occasionaly - I do participate in online **Hackathons / Game (dev) Jams**.
