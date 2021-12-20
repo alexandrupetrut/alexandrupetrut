@@ -7,7 +7,7 @@
 
  ###      Allow me to introduce myself &nbsp; 👋  &nbsp; ![visitors](https://visitor-badge.glitch.me/badge?page_id=https://github.com/alexandrupetrut)
  -  :school: &nbsp;&nbsp; I'm [Alex](https://www.linkedin.com/in/petrut-alex/), a (Full Stack) **Software Engineer** from Bucharest, Romania.
- -  🌱 &nbsp;&nbsp; Currently learning everything 🤣 **Kudos to Pluralsight**.
+ -  🌱 &nbsp;&nbsp; Currently learning everything 😹  &nbsp; **Kudos to Coursera, Educative.io & Pluralsight**.
  -  :neutral_face: &nbsp;&nbsp; I have a **love/hate** relationship with **Game Development**, **Assembly (x86, x64)** and **C**.
  -  😄 &nbsp;&nbsp; Occasionaly - I do participate in online **Hackathons / Game (dev) Jams**.
  -  🥅  &nbsp;&nbsp; **2022 Goals**: Enhance my knowledge of **Data Structures & Algorithms** and **deploy iOS/Android apps**.
