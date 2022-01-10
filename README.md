@@ -10,7 +10,7 @@
  -  🌱 &nbsp;&nbsp; Currently learning everything 😹  &nbsp; **Kudos to Coursera, Educative.io & Pluralsight**.
  -  :neutral_face: &nbsp;&nbsp; I have a **love/hate** relationship with **Game Development** and **Assembly, C, C++**.
  -  😄 &nbsp;&nbsp; Occasionaly - I do participate in online **Hackathons / Game (dev) Jams**.
- -  🥅  &nbsp;&nbsp; **2022 Goals**: Enhance my knowledge of **Data Structures & Algorithms** and **iOS/Android development**.
+ -  🥅  &nbsp;&nbsp; **2022 Goals**: Enhance **Data Structures & Algorithms** and **iOS/Android development** knowledge.
  -  ⚡ &nbsp;&nbsp; Fun fact: I enjoy playing tennis and taking my pup **Freya** (pic) out for walks / car trips.
 
 
