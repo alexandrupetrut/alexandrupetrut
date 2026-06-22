@@ -2,7 +2,7 @@
 
 # Hey, I'm Alex Popa 👋
 
-### Software Architect @ [Impact Nation](https://impactnation.ai) · .NET / Azure · AI-enabled platforms · Indie Game Dev @ A&A PlayForge
+### Software Architect @ [Impact Nation](https://impactnation.ai) · Indie Game Dev @ A&A PlayForge
 
 I design maintainable backend, cloud, AI, and product systems that turn messy workflows into secure, observable, production-ready platforms — and I’m applying that same architecture mindset to **Paw Heist**, a heartfelt cozy 3D stealth pet-heist adventure by **A&A PlayForge**.
 
